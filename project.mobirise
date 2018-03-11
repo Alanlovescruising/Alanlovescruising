@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "Contact.html",
+    "currentPage": "About.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 43,
     "versionPublish": "4.6.5",
@@ -49,7 +49,7 @@
     "Home.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Alan Loves Cruising - Home",
         "meta_descr": "Cruise, Cruising, Luxury Cruising, River Cruises, P&O, Cunard, Carnival Cruise Lines, Royal Caribbean, Celebrity Cruises, Princess Cruises, Azamara, Seabourn, Scenic, APT, Viking",
         "header_custom": "",
         "footer_custom": "",
@@ -517,8 +517,8 @@
     },
     "Specials.html": {
       "settings": {
-        "meta_descr": "",
-        "title": "Specials",
+        "meta_descr": "Cruising Australia, cruising insurance, cruising images, i'm cruising meaning, cruising june 2018, cruising japan and china, cruising kangaroo island. ",
+        "title": "Alan Loves Cruising - Specials",
         "order": 1
       },
       "components": [
@@ -1022,8 +1022,8 @@
     },
     "Services.html": {
       "settings": {
-        "meta_descr": "",
-        "title": "Services",
+        "meta_descr": "Cruising guide, cruising guru, career cruising , cruising Hawaii, cruising hawaii to sydney, cruising holiday, cruising Hobart, cruising in Melbourne",
+        "title": "Alan Loves Cruising - Services",
         "order": 2
       },
       "components": [
@@ -1509,8 +1509,8 @@
     },
     "About.html": {
       "settings": {
-        "meta_descr": "",
-        "title": "About Us",
+        "meta_descr": "cruise blogs, cruise around, cruising Canada, cruising cairns, cruising canada and Alaska, cruising companies, cruising cruising, cruising deals",
+        "title": "Alan Loves Cruising - About Us",
         "order": 3
       },
       "components": [
@@ -2058,7 +2058,7 @@
     "Contact.html": {
       "settings": {
         "meta_descr": "cruising OZ, cruising from Melbourne, cruising new Zealand, cruising asia, cruising Hawaii, a cruising couple,a cruise down the river, cruising boat",
-        "title": "Contact Me",
+        "title": "Alan Loves Cruising - Contact Me",
         "order": 4
       },
       "components": [
